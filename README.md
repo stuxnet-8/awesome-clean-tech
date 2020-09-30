@@ -146,6 +146,10 @@ Short description.
 
 ### Energy
 
+- [ReNew Power](https://renewpower.in/) | India | 2011
+  
+  ReNew Power Ventures operates as an independent power producer. The company engages in the generation of non-conventional energy through solar and wind power. It sells its power to state electricity boards and large industrial companies in India.
+
 - [Bulb](https://bulb.co.uk/) | UK | 2013
 
   The UK's biggest green supplier. They provide members with 100% renewable electricity from solar, wind and hydro. Plus, the gas is 100% carbon neutral. 10% is green gas produced from renewable sources like food or farm waste.
